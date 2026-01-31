@@ -1,5 +1,10 @@
 site_name: ""
 
+docs_dir: docs/
+
+site_url: https://ch3ckm8.github.io/personal_blog5/
+use_directory_urls: true
+
 nav:
   - Home: index.md
   - Community:
